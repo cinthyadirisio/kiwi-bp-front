@@ -1,3 +1,3 @@
 # kiwi-bp-front
 
-<img src="./kiwiBP.png" alt="logoKiwi" />
+<img src="./kiwiBPMD.png" alt="logoKiwi" />
