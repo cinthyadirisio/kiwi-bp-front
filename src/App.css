@@ -1,2 +1,13 @@
 /*font-family: 'Josefin Sans', sans-serif;
 font-family: 'Roboto Condensed', sans-serif;*/
+
+
+#light {
+    background-color: #f3ebf6;
+    color:#1f1e20;
+  }
+  
+  #dark {
+    background-color: #1f1e20;
+    color: #f3ebf6;
+  }
